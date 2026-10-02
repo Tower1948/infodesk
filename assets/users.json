@@ -1,0 +1,112 @@
+[
+  {
+    "phone": "12345678",
+    "firstName": "Lise",
+    "lastName": "Hansen",
+    "age": 34,
+    "address": "Birkevej 12",
+    "zip": "2605",
+    "city": "Brøndby",
+    "email": "lise.hansen@example.com",
+    "newsletterFreq": 1
+  },
+  {
+    "phone": "87654321",
+    "firstName": "Peter",
+    "lastName": "Olsen",
+    "age": 42,
+    "address": "Skovparken 44",
+    "zip": "5260",
+    "city": "Odense S",
+    "email": "peter.olsen@example.com",
+    "newsletterFreq": 2
+  },
+  {
+    "phone": "23456789",
+    "firstName": "Mette",
+    "lastName": "Sørensen",
+    "age": 29,
+    "address": "Engdraget 8",
+    "zip": "8000",
+    "city": "Aarhus C",
+    "email": "mette.sorensen@example.com",
+    "newsletterFreq": 1
+  },
+  {
+    "phone": "98765432",
+    "firstName": "Henrik",
+    "lastName": "Madsen",
+    "age": 50,
+    "address": "Højmarksvej 3",
+    "zip": "9000",
+    "city": "Aalborg",
+    "email": "henrik.madsen@example.com",
+    "newsletterFreq": 0
+  },
+  {
+    "phone": "34567890",
+    "firstName": "Camilla",
+    "lastName": "Kristensen",
+    "age": 38,
+    "address": "Fuglevej 19",
+    "zip": "4300",
+    "city": "Holbæk",
+    "email": "camilla.kristensen@example.com",
+    "newsletterFreq": 3
+  },
+  {
+    "phone": "87651234",
+    "firstName": "Jonas",
+    "lastName": "Mortensen",
+    "age": 27,
+    "address": "Søndergade 55",
+    "zip": "8700",
+    "city": "Horsens",
+    "email": "jonas.mortensen@example.com",
+    "newsletterFreq": 1
+  },
+  {
+    "phone": "45678901",
+    "firstName": "Maria",
+    "lastName": "Jensen",
+    "age": 31,
+    "address": "Kastanjevej 7",
+    "zip": "6000",
+    "city": "Kolding",
+    "email": "maria.jensen@example.com",
+    "newsletterFreq": 2
+  },
+  {
+    "phone": "76543210",
+    "firstName": "Thomas",
+    "lastName": "Iversen",
+    "age": 45,
+    "address": "Park Allé 22",
+    "zip": "7100",
+    "city": "Vejle",
+    "email": "thomas.iversen@example.com",
+    "newsletterFreq": 0
+  },
+  {
+    "phone": "56789012",
+    "firstName": "Anne",
+    "lastName": "Holm",
+    "age": 36,
+    "address": "Nørregade 14",
+    "zip": "5000",
+    "city": "Odense C",
+    "email": "anne.holm@example.com",
+    "newsletterFreq": 1
+  },
+  {
+    "phone": "65432109",
+    "firstName": "Kasper",
+    "lastName": "Lund",
+    "age": 28,
+    "address": "Solsikkevej 9",
+    "zip": "2670",
+    "city": "Greve",
+    "email": "kasper.lund@example.com",
+    "newsletterFreq": 2
+  }
+]
